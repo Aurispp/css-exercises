@@ -1,0 +1,16 @@
+.font_adj,
+.yellow
+{
+font-size: 28px;
+font-family: 'Helvetica','Times New Roman','serif';
+background-color: yellow;
+
+}
+.font_adj
+{
+    font-weight: bold;
+    color: white;
+    background-color: black;
+
+}
+
